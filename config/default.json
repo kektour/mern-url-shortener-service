@@ -1,0 +1,7 @@
+{
+  "NODE_ENV": "dev",
+  "port": 5000,
+  "jwtSecret": "sdfg859r8t",
+  "mongoURI": "mongodb://localhost:27017/mern_url_shortener_service",
+  "baseUrl": "http://localhost:5000"
+}
